@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, 👋, I'm hcjjj</h1>
-<h3 align="center">A junior gopher from China</h3>
+<h3 align="center">A junior gopher</h3>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
