@@ -1,5 +1,4 @@
 <h1 align="center">Hello there, 👋, I'm hcjjj</h1>
-<h3 align="center">A Gopher from China</h3>
 <div align="left"><img align='right' src="https://cdn.jsdelivr.net/gh/hcjjj/blog-img/dancing-gopher.gif" width="100">
 
 <h3 align="left">Technology Stack</h3>
