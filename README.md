@@ -1,6 +1,5 @@
 <div align="center">
   <h1 style="display: inline-block; margin-right: 12px; vertical-align: middle;">Hello there, 👋, I'm hcjjj</h1>
-  <img src="https://cdn.jsdelivr.net/gh/hcjjj/blog-img/dancing-gopher.gif" width="48" style="vertical-align: middle;">
 </div>
 
 <div align="left">
